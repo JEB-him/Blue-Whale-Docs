@@ -1,0 +1,18 @@
+All the available commands that you can use:
+
+=========== Available Commands ===============
+
+aboutus awards clear cat cd echo env github
+help islouc ls pwd repo sudo welcome yes
+
+==============================================
+
+Helpful Tips:
+    [Tab]: trigger completion.
+    [Ctrl+l]/clear: clear terminal.
+    [Ctrl+r]: refresh page.
+    [↑]: last command in history.
+    [↓]: next command in history.
+
+Inspiration credits: the Nebula CTF Team
+https://www.nebuu.la/
